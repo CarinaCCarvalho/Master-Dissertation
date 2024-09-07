@@ -25,4 +25,5 @@ and applied the TDA model to each of them, and observed their statistical analys
   implementing the naive model.
 
 IMPORTANT: My dissertation has more important codes. However, I am currently developing and improving the TDA model by adding costs and choosing the best parameters. 
+My thesis can be found on Universidade de Coimbra scientific repository.
 
