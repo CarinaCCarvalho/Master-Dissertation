@@ -18,9 +18,11 @@ and applied the TDA model to each of them, and observed their statistical analys
 - 'vr'
   This code generates and visualizes the Vietoris-Rips complex for different values of ε, connecting points by edges and filling triangles in a two-dimensional space, based on the distance between the points.
 
-  - 'markowitz'
+- 'markowitz'
  implementing the Markowitz model.
 
+- 'Naive'
+  implementing the naive model.
 
-My dissertation has more important codes. However, I am currently developing and improving the TDA model by adding costs and choosing the best parameters. 
+IMPORTANT: My dissertation has more important codes. However, I am currently developing and improving the TDA model by adding costs and choosing the best parameters. 
 
